@@ -1,0 +1,1 @@
+// ManualFinanzasReparto.md - contenido simulado

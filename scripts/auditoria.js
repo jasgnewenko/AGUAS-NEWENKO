@@ -1,0 +1,1 @@
+// auditoria.js - contenido simulado
