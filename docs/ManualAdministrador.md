@@ -1,0 +1,1 @@
+// ManualAdministrador.md - contenido simulado

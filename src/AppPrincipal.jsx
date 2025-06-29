@@ -1,0 +1,1 @@
+// AppPrincipal.jsx - contenido simulado
