@@ -1,1 +1,1 @@
-// reporte_ejecutivo.js - contenido simulado
+console.log("Reporte ejecutivo generado - función simulada");

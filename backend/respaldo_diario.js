@@ -1,1 +1,1 @@
-// respaldo_diario.js - contenido simulado
+console.log("Respaldo diario ejecutado - función simulada");
