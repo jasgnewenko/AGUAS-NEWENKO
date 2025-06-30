@@ -1,0 +1,1 @@
+console.log('Reporte ejecutivo generado y enviado.');

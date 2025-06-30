@@ -1,44 +1,16 @@
-\# 💧 Aguas Newenko
+# Aguas Newenko
 
+Sistema de gestión interna para ventas, finanzas y logística de distribución de agua purificada y saborizada.
 
+## Funcionalidades
+- Confrontación de ventas
+- Módulo financiero
+- Gestión de pedidos
+- Reportes automáticos
 
-Sistema de gestión interna para la empresa Aguas Newenko (agua purificada y saborizada).
-
-
-
----
-
-
-
-\## 🚀 Funcionalidades principales
-
-
-
-\- Gestión de ventas, pedidos y reparto
-
-\- Confrontación semanal, mensual y anual
-
-\- Respaldo automático a Google Drive
-
-\- Reportes financieros y ejecutivos
-
-\- Login con roles (Administrador, Reparto, Finanzas)
-
-
-
----
-
-
-
-\## 📦 Instalación local
-
-
+## Instalación
 
 ```bash
-
 npm install
-
 npm run dev
-
-
-
+```
